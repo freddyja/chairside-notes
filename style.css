@@ -30,3 +30,6 @@ html.dark input,html.dark select,html.dark textarea,html.dark .live{background:#
 html.dark .item{border-color:#1f4d4a}html.dark .item:hover{background:#163b39}html.dark button.ghost,html.dark .tooth{background:#1f4d4a;color:#99f6e4}html.dark .tooth.on{background:#14b8a6;color:#04201e}
 html.dark .brand,html.dark h2,html.dark summary,html.dark .stats b{color:#5eead4}html.dark .muted{color:#94a3b8}html.dark .privacy{background:#083344;color:#cffafe}html.dark .badge{background:#1f4d4a;color:#99f6e4}
 @media print{html.dark body,html.dark .card{background:#fff;color:#000}}
+
+.vm{padding:2px 8px;font-size:.85rem;margin-left:4px;background:#ccfbf1;color:#0f766e;border-radius:8px;vertical-align:middle}html.dark .vm{background:#1f4d4a;color:#99f6e4}
+.mini{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}.mini button{padding:4px 8px;font-size:.78rem;background:#ccfbf1;color:#0f766e}html.dark .mini button{background:#1f4d4a;color:#99f6e4}
